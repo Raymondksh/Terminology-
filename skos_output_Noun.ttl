@@ -1,0 +1,505 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://example.org/concept/academic> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 38.3304" ;
+    skos:prefLabel "academic" .
+
+<http://example.org/concept/access> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 37.1362" ;
+    skos:prefLabel "access" .
+
+<http://example.org/concept/action> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 33.2622" ;
+    skos:prefLabel "action" .
+
+<http://example.org/concept/actions> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 26.9148" ;
+    skos:prefLabel "actions" .
+
+<http://example.org/concept/activities> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 58.6518" ;
+    skos:prefLabel "activities" .
+
+<http://example.org/concept/approach> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 35.6439" ;
+    skos:prefLabel "approach" .
+
+<http://example.org/concept/approaches> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 29.2428" ;
+    skos:prefLabel "approaches" .
+
+<http://example.org/concept/assessment> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 42.2792" ;
+    skos:prefLabel "assessment" .
+
+<http://example.org/concept/attributes> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 23.1839" ;
+    skos:prefLabel "attributes" .
+
+<http://example.org/concept/award> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 54.0211" ;
+    skos:prefLabel "award" .
+
+<http://example.org/concept/board> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 56.5842" ;
+    skos:prefLabel "board" .
+
+<http://example.org/concept/bristol> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 111.0056" ;
+    skos:prefLabel "bristol" .
+
+<http://example.org/concept/candidate> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 25.2481" ;
+    skos:prefLabel "candidate" .
+
+<http://example.org/concept/challenges> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 23.4167" ;
+    skos:prefLabel "challenges" .
+
+<http://example.org/concept/communities> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 23.8442" ;
+    skos:prefLabel "communities" .
+
+<http://example.org/concept/community> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 24.7716" ;
+    skos:prefLabel "community" .
+
+<http://example.org/concept/complaint> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 67.5985" ;
+    skos:prefLabel "complaint" .
+
+<http://example.org/concept/confidence> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 27.2922" ;
+    skos:prefLabel "confidence" .
+
+<http://example.org/concept/credits> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 47.5322" ;
+    skos:prefLabel "credits" .
+
+<http://example.org/concept/curriculum> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 38.3172" ;
+    skos:prefLabel "curriculum" .
+
+<http://example.org/concept/data> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 94.3412" ;
+    skos:prefLabel "data" .
+
+<http://example.org/concept/degree> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 33.5071" ;
+    skos:prefLabel "degree" .
+
+<http://example.org/concept/design> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 28.9383" ;
+    skos:prefLabel "design" .
+
+<http://example.org/concept/development> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 60.0673" ;
+    skos:prefLabel "development" .
+
+<http://example.org/concept/education> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 73.4188" ;
+    skos:prefLabel "education" .
+
+<http://example.org/concept/employment> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 23.2856" ;
+    skos:prefLabel "employment" .
+
+<http://example.org/concept/enterprise> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 36.6157" ;
+    skos:prefLabel "enterprise" .
+
+<http://example.org/concept/evidence> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 47.2733" ;
+    skos:prefLabel "evidence" .
+
+<http://example.org/concept/experience> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 27.4106" ;
+    skos:prefLabel "experience" .
+
+<http://example.org/concept/future> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 44.7512" ;
+    skos:prefLabel "future" .
+
+<http://example.org/concept/futures> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 30.2354" ;
+    skos:prefLabel "futures" .
+
+<http://example.org/concept/graduate> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 27.6009" ;
+    skos:prefLabel "graduate" .
+
+<http://example.org/concept/health> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 42.9088" ;
+    skos:prefLabel "health" .
+
+<http://example.org/concept/higher> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 42.0513" ;
+    skos:prefLabel "higher" .
+
+<http://example.org/concept/higher%20education> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 37.1032" ;
+    skos:prefLabel "higher education" .
+
+<http://example.org/concept/https> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 49.1963" ;
+    skos:prefLabel "https" .
+
+<http://example.org/concept/ii> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 29.2279" ;
+    skos:prefLabel "ii" .
+
+<http://example.org/concept/impact> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 24.6035" ;
+    skos:prefLabel "impact" .
+
+<http://example.org/concept/inclusive> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 26.4407" ;
+    skos:prefLabel "inclusive" .
+
+<http://example.org/concept/individuals> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 34.6499" ;
+    skos:prefLabel "individuals" .
+
+<http://example.org/concept/information> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 63.2456" ;
+    skos:prefLabel "information" .
+
+<http://example.org/concept/issues> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 25.1081" ;
+    skos:prefLabel "issues" .
+
+<http://example.org/concept/knowledge> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 35.0481" ;
+    skos:prefLabel "knowledge" .
+
+<http://example.org/concept/learning> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 46.0641" ;
+    skos:prefLabel "learning" .
+
+<http://example.org/concept/level> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 76.6535" ;
+    skos:prefLabel "level" .
+
+<http://example.org/concept/module> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 25.7241" ;
+    skos:prefLabel "module" .
+
+<http://example.org/concept/modules> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 29.8875" ;
+    skos:prefLabel "modules" .
+
+<http://example.org/concept/new> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 31.5480" ;
+    skos:prefLabel "new" .
+
+<http://example.org/concept/note> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 22.6603" ;
+    skos:prefLabel "note" .
+
+<http://example.org/concept/one> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 22.8112" ;
+    skos:prefLabel "one" .
+
+<http://example.org/concept/opportunities> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 74.2974" ;
+    skos:prefLabel "opportunities" .
+
+<http://example.org/concept/opportunity> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 23.9419" ;
+    skos:prefLabel "opportunity" .
+
+<http://example.org/concept/outcomes> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 44.9295" ;
+    skos:prefLabel "outcomes" .
+
+<http://example.org/concept/part> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 27.7400" ;
+    skos:prefLabel "part" .
+
+<http://example.org/concept/partners> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 24.3475" ;
+    skos:prefLabel "partners" .
+
+<http://example.org/concept/people> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 60.5797" ;
+    skos:prefLabel "people" .
+
+<http://example.org/concept/personal> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 55.8248" ;
+    skos:prefLabel "personal" .
+
+<http://example.org/concept/personal%20data> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 39.9271" ;
+    skos:prefLabel "personal data" .
+
+<http://example.org/concept/place> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 36.4217" ;
+    skos:prefLabel "place" .
+
+<http://example.org/concept/plan> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 23.0914" ;
+    skos:prefLabel "plan" .
+
+<http://example.org/concept/policy> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 61.9964" ;
+    skos:prefLabel "policy" .
+
+<http://example.org/concept/practice> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 37.0939" ;
+    skos:prefLabel "practice" .
+
+<http://example.org/concept/priorities> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 29.4216" ;
+    skos:prefLabel "priorities" .
+
+<http://example.org/concept/process> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 25.7149" ;
+    skos:prefLabel "process" .
+
+<http://example.org/concept/professional> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 22.8084" ;
+    skos:prefLabel "professional" .
+
+<http://example.org/concept/programme> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 66.8962" ;
+    skos:prefLabel "programme" .
+
+<http://example.org/concept/programmes> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 37.0840" ;
+    skos:prefLabel "programmes" .
+
+<http://example.org/concept/protection> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 23.2468" ;
+    skos:prefLabel "protection" .
+
+<http://example.org/concept/purpose> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 24.3886" ;
+    skos:prefLabel "purpose" .
+
+<http://example.org/concept/regulations> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 28.3858" ;
+    skos:prefLabel "regulations" .
+
+<http://example.org/concept/requirements> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 24.5652" ;
+    skos:prefLabel "requirements" .
+
+<http://example.org/concept/research> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 89.6537" ;
+    skos:prefLabel "research" .
+
+<http://example.org/concept/resources> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 22.6611" ;
+    skos:prefLabel "resources" .
+
+<http://example.org/concept/review> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 24.9869" ;
+    skos:prefLabel "review" .
+
+<http://example.org/concept/risk> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 51.4344" ;
+    skos:prefLabel "risk" .
+
+<http://example.org/concept/section> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 28.7886" ;
+    skos:prefLabel "section" .
+
+<http://example.org/concept/september> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 30.0426" ;
+    skos:prefLabel "september" .
+
+<http://example.org/concept/skills> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 37.3547" ;
+    skos:prefLabel "skills" .
+
+<http://example.org/concept/staff> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 111.6896" ;
+    skos:prefLabel "staff" .
+
+<http://example.org/concept/stage> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 30.1135" ;
+    skos:prefLabel "stage" .
+
+<http://example.org/concept/strategies> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 24.9521" ;
+    skos:prefLabel "strategies" .
+
+<http://example.org/concept/strategy> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 74.3026" ;
+    skos:prefLabel "strategy" .
+
+<http://example.org/concept/student> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 132.9536" ;
+    skos:prefLabel "student" .
+
+<http://example.org/concept/students> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 385.0162" ;
+    skos:prefLabel "students" .
+
+<http://example.org/concept/study> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 28.9794" ;
+    skos:prefLabel "study" .
+
+<http://example.org/concept/support> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 74.0194" ;
+    skos:prefLabel "support" .
+
+<http://example.org/concept/sustainability> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 30.6906" ;
+    skos:prefLabel "sustainability" .
+
+<http://example.org/concept/sustainable> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 37.2595" ;
+    skos:prefLabel "sustainable" .
+
+<http://example.org/concept/teaching> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 37.6181" ;
+    skos:prefLabel "teaching" .
+
+<http://example.org/concept/team> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 30.0606" ;
+    skos:prefLabel "team" .
+
+<http://example.org/concept/teams> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 26.3269" ;
+    skos:prefLabel "teams" .
+
+<http://example.org/concept/type> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 34.4329" ;
+    skos:prefLabel "type" .
+
+<http://example.org/concept/uk> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 29.5870" ;
+    skos:prefLabel "uk" .
+
+<http://example.org/concept/university> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 270.9200" ;
+    skos:prefLabel "university" .
+
+<http://example.org/concept/us> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 68.5455" ;
+    skos:prefLabel "us" .
+
+<http://example.org/concept/uwe> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 190.8863" ;
+    skos:prefLabel "uwe" .
+
+<http://example.org/concept/uwe%20bristol> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 86.0858" ;
+    skos:prefLabel "uwe bristol" .
+
+<http://example.org/concept/ways> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 33.2813" ;
+    skos:prefLabel "ways" .
+
+<http://example.org/concept/work> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 72.7574" ;
+    skos:prefLabel "work" .
+
+<http://example.org/concept/year> a skos:Concept ;
+    skos:inScheme <http://example.org/concept_scheme> ;
+    skos:note "Aggregated TF-IDF score: 25.8389" ;
+    skos:prefLabel "year" .
+
+<http://example.org/concept_scheme> a skos:ConceptScheme ;
+    skos:prefLabel "Example Concept Scheme" .
+
